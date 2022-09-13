@@ -1,0 +1,15 @@
+[plater]
+size_x = 170
+size_y = 170
+size_spacing = 1
+path = "C:\\Users\\Keyan\\Documents\\Pronters\\Plater\\plater.exe"
+[superslicer]
+path = "C:\\Program Files\\SuperSlicer\\superslicer_console.exe"
+config_printer = "C:\\Users\\Keyan\\AppData\\Roaming\\SuperSlicer\\printer\\K3-0.5Nozzle.ini"
+config_filament = "C:\\Users\\Keyan\\AppData\\Roaming\\SuperSlicer\\filament\\K3 ABS1.5 0.5.ini"
+config_print = "C:\\Users\\Keyan\\AppData\\Roaming\\SuperSlicer\\print\\K3 ABS 0.5.ini"
+accent_config_printer = "C:\\Users\\Keyan\\AppData\\Roaming\\SuperSlicer\\printer\\K3-0.5Nozzle.ini"
+accent_config_filament = "C:\\Users\\Keyan\\AppData\\Roaming\\SuperSlicer\\filament\\K3 ABS1.5 0.5.ini"
+accent_config_print = "C:\\Users\\Keyan\\AppData\\Roaming\\SuperSlicer\\print\\K3 ABS 0.5.ini"
+[moonraker]
+url = "http://192.168.1.103"
